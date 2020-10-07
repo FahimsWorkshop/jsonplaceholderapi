@@ -1,36 +1,36 @@
 [
     {
         "id": 1,
-        "name": "name",
+        "name": "Image Name",
         "image": "https://lh3.googleusercontent.com/-UZWwCsIKH4k/X34EW3zK45I/AAAAAAAACdY/RZfnsN6H5KgKKKNs6ShF5YidxGGFa3qDQCK8BGAsYHg/s0/image.png",
-        "text": "Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.",
-        "property": "1024X660"
+        "text": null,
+        "property": null
     },
     {
         "id": 2,
-        "name": "name",
+        "name": "Image Name",
         "image": "https://lh3.googleusercontent.com/-UZWwCsIKH4k/X34EW3zK45I/AAAAAAAACdY/RZfnsN6H5KgKKKNs6ShF5YidxGGFa3qDQCK8BGAsYHg/s0/image.png",
-        "text": "Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.",
-        "property": "1024X660"
+        "text": "Image Name",
+        "property": null
     },
     {
         "id": 3,
-        "name": "name",
+        "name": "Image Name",
         "image": "https://lh3.googleusercontent.com/-UZWwCsIKH4k/X34EW3zK45I/AAAAAAAACdY/RZfnsN6H5KgKKKNs6ShF5YidxGGFa3qDQCK8BGAsYHg/s0/image.png",
-        "text": "Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.",
+        "text": "Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen.",
         "property": "1024X660"
     },
     {
-        "name": "name",
+        "name": "Image Name",
         "image": "https://lh3.googleusercontent.com/-UZWwCsIKH4k/X34EW3zK45I/AAAAAAAACdY/RZfnsN6H5KgKKKNs6ShF5YidxGGFa3qDQCK8BGAsYHg/s0/image.png",
-        "text": "Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.",
-        "property": "1024X660"
+        "text": null,
+        "property": null
     },
     {
         "id": 5,
-        "name": "name",
+        "name": "Image Name",
         "image": "https://lh3.googleusercontent.com/-UZWwCsIKH4k/X34EW3zK45I/AAAAAAAACdY/RZfnsN6H5KgKKKNs6ShF5YidxGGFa3qDQCK8BGAsYHg/s0/image.png",
-        "text": "Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud.",
-        "property": "1024X660"
+        "text": "Image name",
+        "property": null
     }
 ]
